@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Leweii's github stats](https://github-readme-stats.vercel.app/api?username=leweii)
+![Leweii's github stats](https://github-readme-stats.vercel.app/api?username=leweii&show_icons=true&theme=radical&show_owner=true)
